@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&family=Roboto:wght@100;300&display=swap');
+
+$font1: "Poppins", sans-serif;
+$font2: "Roboto", sans-serif;
+$primary-color: #3e6f9e;
+
+body {
+  font-family: $font2;
+  //color: $primary-color;
+}
